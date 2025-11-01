@@ -1,0 +1,4 @@
+# Ignore SSH keys or local files
+awawa
+awawa.pub
+
