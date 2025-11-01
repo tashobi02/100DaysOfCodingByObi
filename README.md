@@ -28,11 +28,11 @@ For the next 100 days, I’m committing to **coding every single day**, focusing
 
 ## 🗓️ Daily Progress Log
 
-| Day | Date | Focus | Summary / Notes |
-|-----|------|--------|----------------|
-| 1 | YYYY-MM-DD | e.g., HTML & CSS Basics | Learned semantic HTML, practiced layout with Flexbox |
-| 2 | YYYY-MM-DD | e.g., JS Fundamentals | Variables, loops, and DOM manipulation |
-| ... | ... | ... | ... |
+| Day | Date       | Focus                   | Summary / Notes                                      |
+| --- | ---------- | ----------------------- | ---------------------------------------------------- |
+| 1   | YYYY-MM-DD | e.g., HTML & CSS Basics | Learned semantic HTML, practiced layout with Flexbox |
+| 2   | YYYY-MM-DD | e.g., JS Fundamentals   | Variables, loops, and DOM manipulation               |
+| ... | ...        | ...                     | ...                                                  |
 
 🧾 *You can follow my detailed progress inside the `logs/` directory (one markdown file per day).*
 
