@@ -1,0 +1,2 @@
+1. Learned about CSS Cascade 
+2. Re-starting the 100 Day Challenge. Took a break due to sickness and other stuff came up in life which made it hard for me to stay disciplined for a while. But hopefully, I'll get back to this again soon. 
